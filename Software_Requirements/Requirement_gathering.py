@@ -16,6 +16,7 @@ situations. What the System is supposed to do.Eg: Functions of Toothbrush?
 To Brush the Teeth.
 
 Non-Functional Requirements: Constrains by the system.
+
 This includes reliability, time, scalibility, peformance,
 security. Sometimes, this is more important.Eg: What is Non-Functional
 Requirement of Toothbrush? But Toothbrush breaks after you brush your teeth.
