@@ -37,7 +37,19 @@ I wanted to yell and scream at CRU for sending me automation emails. He showed h
 In three months, I learnt that skill and I felt extremely happy. I thanked him so much.
 
 The Software is there but I did not know how to use it efficiently? It took few months to learn basics of
-organizing an email. 
+organizing an email.
+
+Question: Customer Relationship Management means?
+Answer: Kallamozhi -> You own a store, Grocery StoreQuestion: Customer Relationship Management means?
+ Kallamozhi -> You own a store, Grocery Store.Everyday you have 10 customers.
+ Raja, Muthuvel, Nambi, Kumar. ..... 10. .
+ Diwali Season, Kallamozhi, you have a festival. 1000 people,
+ 1000 people are visiting your store.
+ YOu want to maintain Relationship, Service, data, contacts...
+ 1 Person can handle 4 people. But a Software can handle 1000 people's contact.
+ The Store owner asks to enter what thy want in a software. Everyone owns a cell-phone and internet.
+ The Store owner can send details, coupons, to his 1000 people with a click of software. 
+
 
 
 """

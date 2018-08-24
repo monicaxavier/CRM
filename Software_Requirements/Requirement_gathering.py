@@ -74,4 +74,22 @@ Idea -- CRM
 Requirements -- System Requirements, Design, Architectural,
 Software [Prototype], Implementation, Testing, Review.
 
+Suppose you built a Church CRM.
+Features -- Calender, SMS messaging, Contacts.
+Okay you built it.
+They want more features. But if you add more features, calnder won't work.
+Will you redo all the code? Nope. Will you write 10,000 lines of code again?
+Suppose afte you build a Church CRM. RMKV likes your product. Will you write 10,000
+lines of code and create seperate product or you will reuse the code to make them also use
+same product?
+
+Always plan long-term, multiple industries, best practices within Software industry.
+Reuse! maintainence.
+In house there are windows.. different models. They'll just change.
+
+Rick goes to A1-Parotta Stall. Rick orders Chilli Chicken and parrota.
+Billing -> Abraham, He will give it to Master Parotta. He will have basic ingedients
+for Chilli Chicken. Next, Muth goes to A-1 Parotta Stal. He asks for Butter Chicken.
+Will Parotta Master have different ingredients for Butter Chicken or he would reuse the same receipie?
+
 """
