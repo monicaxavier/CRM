@@ -4,6 +4,12 @@ friends = ['john','pat','gary']
 
 enemy = {'muthu':'raja','kumar':'saravanan'}
 
+jeba_stores = {'thayir':5, 'five-star':10, 'tomatoes':8, 'apple':80}
+
+print jeba_stores
+
+
+
 #Loop, C, C++, Python, PERL, Clojure
 #India, Technology, Language
 #Absract and learn important concepts

@@ -48,8 +48,24 @@ Answer: Kallamozhi -> You own a store, Grocery StoreQuestion: Customer Relations
  YOu want to maintain Relationship, Service, data, contacts...
  1 Person can handle 4 people. But a Software can handle 1000 people's contact.
  The Store owner asks to enter what thy want in a software. Everyone owns a cell-phone and internet.
- The Store owner can send details, coupons, to his 1000 people with a click of software. 
+ The Store owner can send details, coupons, to his 1000 people with a click of software.
+ We cannot create one software for everything. Gmail is a product -- to communicate.
+ Gmail cannot become CRM.
+
+ Muthu opened his email.
 
 
+ Security -> What is the problem? Phishing -- How to solve it?
+ API + Cryptography + Security Analytics = Software product.
 
+
+Bill_GATES -> IBM -> OS/360 --> MANUAL or DOCUMENTATION.
+We can do it better. Sofware would be a vision.
+He built little bit in Windows 95, 98... Hired people.
+
+Theme in Software Industry.
+business to commercial industry - > Facebook, Google, Skype . People do not pay money.
+business to business industry > Zoho, why? Because they sell their product to business only.
+DOS -> Windows 95 -> Internet -> Web-browser -> Social Network -> Mobile Applications
+API 
 """
