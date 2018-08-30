@@ -1,5 +1,9 @@
 # KODAI -- CRM
 
+
+<a href="url"><img src="https://raw.githubusercontent.com/ludwigwittgenstein2/CRM/master/logo/Kodai-CRM.png" align="center" height="100" width="150"></a>
+
+
 A Fun project to build CRM using Civil Engineering thought
 
 Definition: CRM is Customer Relationship Management
