@@ -37,4 +37,18 @@ myname = input()
 print('Hello ' + myname)
 
 **Python Collections**
+--> List
+list = ['moni','jesu','sahaya']
+print(list)
+output--['moni', 'jesu', 'sahaya']
+
+list = ['moni','jesu','sahaya']
+print(list[1])
+output--> moni
+
+list = ['moni','jesu','sahaya']
+list[2] = 'xavier'
+print(list)
+
+output-->['moni', 'jesu', 'xavier']
 
