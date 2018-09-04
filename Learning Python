@@ -1,0 +1,54 @@
+Numeric Types in python:
+*int
+*float
+*complex
+
+To verify the type of the oblect in python use type()
+example:
+name = 'moni'
+print(type(name))
+
+output: <class  'str'> type of name variable is displayed.
+
+Casting(Type casting)
+we can specify a type to a variable
+int() : x = int(1) ans = 1, 
+        y = int(2.3) ans = 2, 
+        z = int(3.333) ans = 3
+float() : x = float(2) ans = 2.0
+         y = flaot(6.87) ans = 6.8
+str() : x = str(1) ans =1
+		y = str(moni) ans = moni
+
+-->String literals
+"hello" same as 'hello'
+position 
+name = 'moni'
+print(name[1]) --> m
+
+strip() -->removes white space from the beginning or end.
+upper() --> MONI JESU
+lower() --> moni
+len(name) --> 4
+print(name.replace("m","j")) --> joni
+Command Line Input
+print('Enter your name :')
+myname = input()
+print('Hello ' + myname)
+
+**Python Collections**
+--> List
+list = ['moni','jesu','sahaya']
+print(list)
+output--['moni', 'jesu', 'sahaya']
+
+list = ['moni','jesu','sahaya']
+print(list[1])
+output--> moni
+
+list = ['moni','jesu','sahaya']
+list[2] = 'xavier'
+print(list)
+
+output-->['moni', 'jesu', 'xavier']
+
