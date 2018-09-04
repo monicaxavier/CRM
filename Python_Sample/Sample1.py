@@ -25,12 +25,5 @@ print jeba_stores
 # Input = Output
 # Fan, (Switch on) = Fan suthudhu
 
-def greet(name):
-    """
-    This is a function.
-    """
-    print "Kutti", name
-
-
-greet("Payan")
-greet("Ponnu")
+for i in friends:
+    print i 

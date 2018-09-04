@@ -6,6 +6,7 @@
 #Why? Because, we don't write from scratch.
 #Some Programmers might write specific Libraries.
 #Math library open, how?
+#Framework?
 # Sys nu oru library irukum.
 # Sys. kudukumbdhu, we are gettting function.
 #What is Function? Specific task, X->Y

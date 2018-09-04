@@ -1,16 +1,11 @@
-#!/usr/local/bin/perl 
+#!/usr/local/bin/perl
 
-$count = 0;
-while (<stdin>) {
-    @w = split;
-    $count++;
-    for ($i=0; $i<=$#w; $i++) {
-	$s[$i] += $w[$i];
-    }
-}
+a = 0
+b = 1
+count = 0
+max_count = 20
 
-for ($i=0; $i<=$#w; $i++) {
-    print $s[$i]/$count, "\t";
-}
+muthu = [max_count+count]
+xavier = [a+b]
 
-print "\n";
+print xavier
