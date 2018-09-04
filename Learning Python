@@ -52,3 +52,10 @@ print(list)
 
 output-->['moni', 'jesu', 'xavier']
 
+list = ['moni','jesu','sahaya']
+for anna in list:
+    print(anna)  -->Indentation is important in python
+output-->moni
+	jesu
+	sahaya    
+
