@@ -9,7 +9,7 @@ The CRM market is flooded with many applications. We want to aim to do our best 
 SaaS has turned software industry into a booming business. There are many issues within SaaS.
 However -- the industry is not like manufacturing or airline industry.
 
-The is no perfect software, yet we want software to be flexible to meet the needs of many.
+There is no perfect software, yet we want software to be flexible to meet the needs of many.
 
 User problems of Software:
 Too complex
@@ -66,6 +66,7 @@ He built little bit in Windows 95, 98... Hired people.
 Theme in Software Industry.
 business to commercial industry - > Facebook, Google, Skype . People do not pay money.
 business to business industry > Zoho, why? Because they sell their product to business only.
-DOS -> Windows 95 -> Internet -> Web-browser -> Social Network -> Mobile Applications
-API 
+Hisory of Software --DOS -> Windows 95 -> Internet -> Web-browser -> Social Network -> Mobile Applications
+SaaS model --> Sofware as a Service model. Use this software on cloud, cutomer support, monthly to yearly plan
+API
 """

@@ -95,3 +95,49 @@ for Chilli Chicken. Next, Muth goes to A-1 Parotta Stal. He asks for Butter Chic
 Will Parotta Master have different ingredients for Butter Chicken or he would reuse the same receipie?
 
 """
+"""
+KODAI CRM -- Requirement
+            -- Kodai CRM System Model -- interact, behave,
+System Modeling: [Explain 5][If you cannot put into your own words, you have not understood]
+[Book-reading][Try to formulate it into your own words]
+[Write it][Try][When you write, your thoughts will flesh out]
+[Writing is hard, but constant practice ]
+[Contwxt model is x,y,z but it doesn't show this ]
+
+House --> How does each room connect with each other?
+        [Doors] 4 rooms only
+        How do we measure if rooms do not fall apart?
+
+What is system modeling?
+System modeling of software = Blueprint of house
+-->Blueprint contains all the abstract details of the house likewise system modeling
+    is the abstract representation of the software.
+-->Representing the system that is to be developed or existing one.
+-->It helps to understand the requirements clearly.
+-->This can be used for documentation
+
+-->commonly used--UML--
+	-->Activity
+	-->usecase
+	-->sequence
+	-->class
+	-->state
+
+Architectural design
+--> It describes how the system and its components should work.
+ex : robot packing object
+--what are the components in the systems
+--how it is functioning?
+--how it is communicating with other components.
+*Stakeholder communication
+*System analysis
+*Reuse
+--Block Diagram-- Commonly used so that people from different disciplines can understand the development process.
+
+As a way of facilitating discussion about the system design
+As a way of documenting an architecture that has been designed
+
+
+
+
+"""

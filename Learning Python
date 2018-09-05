@@ -41,14 +41,27 @@ print('Hello ' + myname)
 list = ['moni','jesu','sahaya']
 print(list)
 output--['moni', 'jesu', 'sahaya']
-
+***************************
 list = ['moni','jesu','sahaya']
 print(list[1])
 output--> moni
-
+***************************
 list = ['moni','jesu','sahaya']
 list[2] = 'xavier'
 print(list)
 
 output-->['moni', 'jesu', 'xavier']
-
+****************************
+list = ['moni','jesu','sahaya']
+for anna in list:
+    print(anna)  -->Indentation is important in python
+output-->moni
+	jesu
+	sahaya    
+***************************
+myname = ['jesu' , 'sahaya' , 'monica', 'xavier']
+for nm in myname:
+    print(nm)
+    if nm == 'monica':
+        break
+***************************
