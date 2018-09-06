@@ -84,3 +84,11 @@ mydict['company']='cts'
 print(mydict)
 
 to remove use del keyword
+
+moni = 23
+rick = 27
+if moni > rick:
+  print('moni is elder than rick')
+else:
+  print ('moni is younger than rick')
+
