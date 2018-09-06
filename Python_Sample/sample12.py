@@ -86,8 +86,8 @@ print(mydict)
 to remove use del keyword
 
 *****Loops in Python******
-moni = 23
-rick = 27
+moni = 33
+rick = 20
 if moni > rick:
   print('moni is elder than rick')
 else:
@@ -100,5 +100,3 @@ while(i<6):
   print(i)
   i +=1
 1 2 3 4 5
-	
-
