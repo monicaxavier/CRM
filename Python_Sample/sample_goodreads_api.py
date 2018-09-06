@@ -9,8 +9,8 @@
 
 
 import requests
+import json
 
 response = requests.get('https://www.goodreads.com/search.xml?key=sBITGRylosZkjIAaixQ&q=Ender%27s+Game')
-
 
 print response
