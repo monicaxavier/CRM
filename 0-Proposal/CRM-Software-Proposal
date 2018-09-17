@@ -15,6 +15,12 @@ Outline:
   established by American Missionaries.
 
 
+  Software Methodology:
+  a) Waterfall
+  b) Agile
+  c) Incremental
+  d) Software prototype
+
 
 
 
@@ -32,10 +38,35 @@ Description of Problem:
         What Job do we hire the CRM to do?
         [Refer Theory of Jobs to be done]
 
-
+Airline Booking.. Without Software, one cannot book.
           What problem does a CRM solve?
 
-          Organized
+
+          Abstraction:
+          [Categories][Problems][][Core-Feature][Features]
+          Monica CRM --> Problem it solves
+          Hospital CRM -> Problem it solves
+          Church CRM --> Problem it solves
+          Personal CRM --> Problem it solves
+          Banking CRM --> Problem it solves
+          Hospital -> Patient -> Doctor -> Nurse -> Admin
+          [Triblio][Account-Based-Marketing]
+          [Personalizing][Sales-Support][Advertisement]
+          [CTO][Development][Road-map][Product][Features][Testing][2][4]
+          CTS-TCS-[Development][1][2][3][4][Testing][Implementation]
+          [Org][Insurance] --> [Service][DBA][Systems]
+          A -> a-z ->1-1000 -> Big picture -
+          
+
+
+
+
+
+            -Organized
+            Why this question is important?
+            -What value proposition does this CRM give?
+            -Church, resuse
+
 
 
 

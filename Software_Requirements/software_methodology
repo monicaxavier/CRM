@@ -1,0 +1,48 @@
+what is software methodology?
+It is the process of software development work consist of requirements,design,coding,testing and maintenance.
+It is also known software development life cycle that is SDLC.
+This SDLC helps to manage and monitor the software development in each phase.
+-waterfall
+-spiral
+-prototying
+-rapid application model(RAD)
+-Incremental
+-Agile
+
+what is waterfall?
+it is a sequintial design approach
+flows from top to bottom in one stream
+and less iterative.
+because once the requirement is done we cant go back to the analysis phase it may leads to redesign.
+
+spiral model
+--combines the waterfall model with iterative development.
+Customer is not sure of their requirements which is usually the case.
+Requirements are complex and need evaluation to get clarity.
+When there is a budget constraint and risk evaluation is important.
+For medium to high-risk projects.
+
+prototyping
+it is the activity of creating prototype of of software application. i.e incomplete version of the software we are going to develop.
+
+RAD
+The RAD (Rapid Application Development) model is based on prototyping and iterative development with no specific planning involved. 
+The process of writing the software itself involves the planning required for developing the product.
+Since there is no detailed preplanning, it makes it easier to incorporate the changes within the development process.
+
+Incremental
+In this model the software is designed,implemented and tested incrementally until the s/w product is finished.(little more is added eash time)
+the s/w product is decomposed into multiple blocks and developed separetely and the component is delivered to the client when it is complete.
+it reduces the long development time.
+
+Agile
+it is a combination of iterative and incremental process.
+Agile Methods break the product into small incremental builds. These builds are provided in iterations. 
+Each iteration typically lasts from about one to three weeks. Every iteration involves cross functional teams working simultaneously on various areas like
+Planning
+Requirements Analysis
+Design
+Coding
+Unit Testing and
+Acceptance Testing.
+At the end of the iteration, a working product is displayed to the customer and important stakeholders.
