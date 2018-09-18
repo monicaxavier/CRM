@@ -8,21 +8,28 @@
 #Software Engineering:
 
 #Requirements:
-#Sofware-Complexity
+#Sofware-Complexity - How would you handle complexity?
 #Design-Philosophies
+#Software-Architecture
 #Software Design
 #Documentation
+#Software-testing
 #wait....
 
 
-#Software tools: Python-Git-Django:
+#Software tools:
+#Python-Git-Django
+#Trello
+
 
 #Road map for learning and creating CRM
-#Python:
+#Python
 #Function
 #Class
+#Object-Oriented Design
 #Unit Testing
 #Libraries
+#Graph-Libraries, Javascript
 #Documentation
 #Python Design Pattern
 #Features -- How to build
@@ -31,6 +38,6 @@
 ###Features
 ####Libraries
 
-#Logic of Features
+##Logic of Features
 #Django-Framework
 #Optimizing software
