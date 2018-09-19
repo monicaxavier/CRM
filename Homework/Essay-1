@@ -55,6 +55,26 @@ Example:
 //**What do you mean by data values in the below?
 //
 
+<<<<<<< HEAD
 In computer science, a data structure is a data organization, management and storage format that enables efficient access and modification.
 More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations
 that can be applied to the data.
+=======
+Why do I need to know about Data-Structure?
+	when working with data and application we need to know how the data is connected with the application, how the data is being 
+	stored,manipulated,how the data flows within the application i.e structure of data.
+	For example assume there is a hospital management application. when new patients come their details will be stored in the database.
+	once the data is stored the hospital can use it for multi-purpose.
+	In computer science, a data structure is a data organization, management and storage format that enables efficient access and modification. 
+	More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations 
+	that can be applied to the data.
+	
+	 I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his 
+	 data structures more important." - Linus Torvalds
+	 
+	 Data structures and algorithms are patterns for solving problems.You'll understand, in depth, how your computer gets things 
+	 done. This informs any technical decisions you make, regardless of whether or not you're using a given algorithm directly. 
+	 Everything from memory allocation in the depths of your operating system, to the inner workings of your RDBMS to how your 
+	 networking stack manages to send data from one corner of Earth to another. All computers rely on fundamental data structures 
+	 and algorithms, so understanding them better makes you understand the computer better.
+>>>>>>> 7a8c964c8953ab67007d162ff9ef574263d6f977
