@@ -1,1 +1,12 @@
-
+What is Unix/Linux? Why it is needed?
+ To understand this lets know about operating system first. What is operating system? Why does a computer need an operating system? 
+ An operating system is the essential program which allows other programs to run and execute (music player, games, paint, word) without 
+ operating system the hardware system cannot interact with the software i.e. computer machine cannot able to interact with the music player, 
+ paint or word. Operating system is also a set of program.
+What is UNIX?
+ AT&T had developed a set of programs (operating system i.e. UNIX) which was used for developers purpose, to execute other programs. UNIX 
+ is like a platform which can be able to do multi-tasking. So while typing some documents, one can able to listen to music this is 
+ multi-tasking. UNIX has many descendant OS and we can group them into two categories. The first was BSD (Berkeley Software Distribution) 
+ an open-source Unix-like operating system. BSD lives on today through FreeBSD, NetBSD, and OpenBSD. NeXTStep was also based on the original 
+ BSD, Apple’s Mac OS X was based on NeXTStep, and iOS was based on Mac OS X.
+ 
