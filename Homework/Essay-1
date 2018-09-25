@@ -92,4 +92,18 @@ Why do I need to know about Data-Structure?
 	 Everything from memory allocation in the depths of your operating system, to the inner workings of your RDBMS to how your
 	 networking stack manages to send data from one corner of Earth to another. All computers rely on fundamental data structures
 	 and algorithms, so understanding them better makes you understand the computer better.
->>>>>>> 7a8c964c8953ab67007d162ff9ef574263d6f977
+>>>>>>> 
+	Thoughts on mail washer software
+	This software helps to get rid of spams, phishing mails 
+	when we get a mail we simply cant open the mail when it contains virus,phishing links. if we open it or click the link it may leads 
+	to some serious data theft or it may affect your system.
+	This software scans your mailbox and decides whether the mail contains any threats or a normal one. if the mail is spam or it contains
+	any virus this software will automatically clean our mailbox without taking risk on own.
+	why do people use it?
+	SECURITY
+	who will safegaurd your system when your mailbox seems vulnerable. This software will sacure your mailbox by scanni g the mail. lets say
+	you are net banking on you system what if the unknown sender sends you a mail attached with data stealing plugin you will open the mail
+	and data got stealed by someone.
+	by using this software you can avoid all these things.
+
+
