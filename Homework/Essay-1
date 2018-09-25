@@ -64,7 +64,10 @@ Example:
 •	Python
 •	PHP
 //**Try defining data structure in your own words, please.
+	Data structure is organizing the data, How the data is storing in the memory, managing the data, retrieving the data, how the data is
+	related other data.
 //**What do you mean by data values in the below?
+	consider your date of birth or name or your address this is data value.
 //
 
 <<<<<<< HEAD
