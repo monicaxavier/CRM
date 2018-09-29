@@ -26,3 +26,14 @@ elements
 each items in an array is called an element.
 index
 each location of an element in an array has a numerical index which is used to identify the element.(the index starts with 0,1,2,3,...)
+
+  int array[10] = { 10,20,55,33,66,44,21,56,76,78}
+  here int is the type, array is the name if the array and [10] is the size of the array.
+  here the index starts with 0 to 9.
+  
+ Basic operations supported with array
+ TRAVERSE -  prints the element in the array one by one.
+ INSERTION -  adds an element at the given index.
+ DELETION - delete the element at the given index.
+ SEARCH - search an element using the index or value.
+ UPDATE - update the element at the given index.
