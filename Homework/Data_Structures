@@ -1,0 +1,28 @@
+what is data type?
+It is way to classify the type of data (i.e integer, strings) which determines the values that can be used with the corresponding type of data.
+  There are two types of data,
+    -Built in data type
+    -Derived Data type
+
+Built in Data type 
+those data types for which a language has built in support are known as built in data types.
+  -Integers
+  -String
+  -Float
+
+Derived Data typeThose data types which are implementation independent as they can be implemented in one or the other way are known as derived 
+data types. These data types are normally built by the combination of primary or built-in data types and associated operations on them. For 
+example −
+
+    List
+    Array
+    Stack
+    Queue
+
+Array
+Array is a container which holds a fixed number of  items should be a same type. (ex : 1 litre water bottle is a container which holds 1 litre 
+of water )
+elements
+each items in an array is called an element.
+index
+each location of an element in an array has a numerical index which is used to identify the element.(the index starts with 0,1,2,3,...)
