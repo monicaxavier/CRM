@@ -11,7 +11,7 @@ How did Bill Gates write Microsoft Windows?
 He did not know from thin-air. He read documentation, other OS, and added hiw own thought.
 Rick -> Python -> Libraries [Math,Graphics, GAmes, Security, API]
 Moni -> How to teach to build software?
- 			- history of software, busineses, programs, software. 
+ 			- history of software, busineses, programs, software.
 			- Python -> Library -> How Python founders or library, they wrote code.
 			Python -> How Python was written? [Core][Libraries]->[Software]
 			O.S -> Software ->[Core][Libraries]->
@@ -92,10 +92,10 @@ Why do I need to know about Data-Structure?
 	 Everything from memory allocation in the depths of your operating system, to the inner workings of your RDBMS to how your
 	 networking stack manages to send data from one corner of Earth to another. All computers rely on fundamental data structures
 	 and algorithms, so understanding them better makes you understand the computer better.
->>>>>>> 
+>>>>>>>
 	Thoughts on mail washer software
-	This software helps to get rid of spams, phishing mails 
-	when we get a mail we simply cant open the mail when it contains virus,phishing links. if we open it or click the link it may leads 
+	This software helps to get rid of spams, phishing mails
+	when we get a mail we simply cant open the mail when it contains virus,phishing links. if we open it or click the link it may leads
 	to some serious data theft or it may affect your system.
 	This software scans your mailbox and decides whether the mail contains any threats or a normal one. if the mail is spam or it contains
 	any virus this software will automatically clean our mailbox without taking risk on own.
@@ -106,11 +106,12 @@ Why do I need to know about Data-Structure?
 	and data got stealed by someone.
 	by using this software you can avoid all these things.
 
-  ______________________________________________________
-  // Rick: I like how you went into
+###### Great Job, Rick, Oct 9, 2018.
 
-	what is song?
-	collection of notes played together which includes lyrics and music(guitar,piano,flute,drums).
+Homework:
 
-	why did you ask for song?
-	How will connect a song with building a software?
+a) Write in your own words how you would construct CRM Software?
+Deadline: Oct 20, 2018
+
+b) Write in your own words how you understand kernal map?
+Deadline Oct 12, 2018
