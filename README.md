@@ -20,3 +20,9 @@ Customer Relationship Management
 
 
 What are the common functions of CRM?
+
+Timeline -- 
+
+December 31, 2018 : Prototype 
+
+
