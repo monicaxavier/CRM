@@ -16,7 +16,7 @@ Teaching topics:
 
 Business problem:
 
-1) What need are we meeting so that users pay for your Softare?
+1) What need are we meeting so that users pay for your Software?
 
 
 
