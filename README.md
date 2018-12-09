@@ -10,7 +10,7 @@ Definition: CRM is Customer Relationship Management
 
 Why do we need to build a CRM?
 
-To maintain relationship, communication 
+To maintain relationship, communication
 
 
 What is CRM?
@@ -21,8 +21,5 @@ Customer Relationship Management
 
 What are the common functions of CRM?
 
-Timeline -- 
-
-December 31, 2018 : Prototype 
-
-
+Core-Features --
+Organization,
