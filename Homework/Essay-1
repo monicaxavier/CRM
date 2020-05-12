@@ -1,0 +1,117 @@
+#Please write what you learnt here
+
+#Outline:
+
+
+"""
+
+Rick --> I have not written many programs
+Rick is following Bill Gates.
+How did Bill Gates write Microsoft Windows?
+He did not know from thin-air. He read documentation, other OS, and added hiw own thought.
+Rick -> Python -> Libraries [Math,Graphics, GAmes, Security, API]
+Moni -> How to teach to build software?
+ 			- history of software, busineses, programs, software.
+			- Python -> Library -> How Python founders or library, they wrote code.
+			Python -> How Python was written? [Core][Libraries]->[Software]
+			O.S -> Software ->[Core][Libraries]->
+
+Sample Questions:
+
+Rick: Why do I need to know about Data-Structure?
+Rick: What is Programming Languages
+Why do I need to know about it?
+Rick: What can I know after knowing Data-structure?
+Rick: What kind of Data-structure would Kodai-CRM need?
+What did you understand from Programming languages wikipedia?
+#Changes
+What is Prolog?
+What is the core problem of CRM?
+
+
+"""
+To Answer This Question Let Us Understand First What Is Language in Common?
+	Language is a tool to express our thoughts, to communicate with other people, to get help from others or to help others we need to
+	//**The first point is correct, language is way to express our thoughts.
+	interact with other people. So in the beginning there must be some sign language to communicate. Then the sign language could have
+	evolved into speaking language. I think computer programming language also same like that only.
+	//**Computer Programming language is precise, it is not ambigious, it has to be accurate. We use 010 to communicate in the micro-processor.
+So What Is Computer?
+
+	It is a machine like other machines (washing machine, Grinder, Fan, Fridge). what machines can do? it helps to reduce the manpower,
+	//Okay, try defining machine here. Machine does help us to reduce work. Good point.
+
+	to solve the real time problem, to reduce the complexity of the work.
+
+
+	likewise, computer machine is reducing the complexity of the work.
+	let’s take calculator, what calculator is doing? if there is small problem then it is easy to solve by our own. what if the problem is
+	bigger? how can we add or subtract or multiply finance details for a mega company. shall we do everything manually? NO, because
+	it will take so much of time to solve the problem.
+	I am giving you an insight to understand the computer machine. computer machine has a multiple software or you can say programs,
+	features, services to reduce the complexity of the work.
+Why We Need to Interact with The Computer?
+	As I said before to interact with the computer machine to do some work we need to communicate with the machine. Can machine
+	understand our speaking language? No. So how to make the machine to understand our needs? here comes the programming languages.
+	programming languages helps to interact with the machines and programming languages give instructions/orders to machine to do a work.
+	Does machine understand programming language? yes partially! there will be compiler in each computer machine. This compiler will
+	convert the 'PROGRAM' into ‘BINARY CODE' which is the machine understandable code.
+Thousands of different programming languages have been created.
+Example:
+•	C
+•	C++
+•	JAVA
+•	Python
+•	PHP
+//**Try defining data structure in your own words, please.
+	Data structure is organizing the data, How the data is storing in the memory, managing the data, retrieving the data, how the data is
+	related other data.
+//**What do you mean by data values in the below?
+	consider your date of birth or name or your address this is data value.
+//
+
+<<<<<<< HEAD
+In computer science, a data structure is a data organization, management and storage format that enables efficient access and modification.
+More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations
+that can be applied to the data.
+=======
+Why do I need to know about Data-Structure?
+	when working with data and application we need to know how the data is connected with the application, how the data is being
+	stored,manipulated,how the data flows within the application i.e structure of data.
+	For example assume there is a hospital management application. when new patients come their details will be stored in the database.
+	once the data is stored the hospital can use it for multi-purpose.
+	In computer science, a data structure is a data organization, management and storage format that enables efficient access and modification.
+	More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations
+	that can be applied to the data.
+
+	 I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his
+	 data structures more important." - Linus Torvalds
+
+	 Data structures and algorithms are patterns for solving problems.You'll understand, in depth, how your computer gets things
+	 done. This informs any technical decisions you make, regardless of whether or not you're using a given algorithm directly.
+	 Everything from memory allocation in the depths of your operating system, to the inner workings of your RDBMS to how your
+	 networking stack manages to send data from one corner of Earth to another. All computers rely on fundamental data structures
+	 and algorithms, so understanding them better makes you understand the computer better.
+>>>>>>>
+	Thoughts on mail washer software
+	This software helps to get rid of spams, phishing mails
+	when we get a mail we simply cant open the mail when it contains virus,phishing links. if we open it or click the link it may leads
+	to some serious data theft or it may affect your system.
+	This software scans your mailbox and decides whether the mail contains any threats or a normal one. if the mail is spam or it contains
+	any virus this software will automatically clean our mailbox without taking risk on own.
+	why do people use it?
+	SECURITY
+	who will safegaurd your system when your mailbox seems vulnerable. This software will sacure your mailbox by scanni g the mail. lets say
+	you are net banking on you system what if the unknown sender sends you a mail attached with data stealing plugin you will open the mail
+	and data got stealed by someone.
+	by using this software you can avoid all these things.
+
+###### Great Job, Rick, Oct 9, 2018.
+
+Homework:
+
+a) Write in your own words how you would construct CRM Software?
+Deadline: Oct 20, 2018
+
+b) Write in your own words how you understand kernal map?
+Deadline Oct 12, 2018
